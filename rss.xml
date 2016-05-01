@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[AntarcticScience]]></title>
         <description><![CDATA[AntarcticScience]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/antarcticscience/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 01 May 2016 07:11:36 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 01 May 2016 07:17:14 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/antarcticscience/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Why Antarctica matters</p>]]></description>
+            <link>https://thegrid.ai/antarcticscience/why-antarctica-matters/index.html</link>
+            <guid isPermaLink="false">6c3ff587-8d60-42b5-9e8d-03899d290644</guid>
+            <pubDate>Sun, 01 May 2016 07:16:38 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1d39eff2-1501-43d1-8131-64285949cc3c.jpg">]]></description>
-            <link>undefinedthe-antarctic-ellsworth-mountains-are-one-of-the-worlds-most/index.html</link>
+            <link>https://thegrid.ai/antarcticscience/the-antarctic-ellsworth-mountains-are-one-of-the-worlds-most/index.html</link>
             <guid isPermaLink="false">a4e99bf7-bae5-4ec1-af6e-d9745db5ea3f</guid>
             <pubDate>Sun, 01 May 2016 07:11:13 GMT</pubDate>
         </item>
